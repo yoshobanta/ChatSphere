@@ -59,10 +59,6 @@ This is a real-time chat application built using the MERN stack (MongoDB, Expres
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-Copyright (c) 2024 Yoshobanta Bisoi (for modifications)
 
 ## Future Todos
 
