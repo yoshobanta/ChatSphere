@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Coverage files
+coverage/
+
+# npm package lock files (optional)
+package-lock.json
